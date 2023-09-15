@@ -12,7 +12,7 @@ You can find my CV, my professional experience and a summary of my skills by cli
 
 ## 📊 Stats
 <p align="center">
-<img widht="430" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=synthwave&rank_icon=github"/> </br>
+<img widht="430" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=synthwave&rank_icon=github&hide=stars"/> </br>
 </br>
 <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=synthwave"/>
 </p>
