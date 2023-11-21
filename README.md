@@ -6,9 +6,9 @@ As a first-year student at the [**Holberton School**](https://www.holbertonschoo
 
 During my first year, I studied several major languages, such as **C**, **Python** and **JavaScript**, and expanded my knowledge of **HTML/CSS**.
 
-In this [**Github**](https://github.com/ValPumpkins), you'll find all the projects I've had the chance to work on at school ([Simple Shell](https://github.com/ValPumpkins/holbertonschool-simple_shell), AirBnb Clone *(wip)*, [_printf](https://github.com/ValPumpkins/holbertonschool-printf), [Low Level](https://github.com/ValPumpkins/holbertonschool-low_level_programming) or [High Level](https://github.com/ValPumpkins/holbertonschool-higher_level_programming), etc.), as well as the *"side projects"* I've done on my own or in collaboration with other students (**Stand-Up Project***(wip)*).
+In this [**Github**](https://github.com/ValPumpkins), you'll find all the projects I've had the chance to work on at school ([Simple Shell](https://github.com/ValPumpkins/holbertonschool-simple_shell), AirBnb Clone *(wip)*, [_printf](https://github.com/ValPumpkins/holbertonschool-printf), [Low Level](https://github.com/ValPumpkins/holbertonschool-low_level_programming) or [High Level](https://github.com/ValPumpkins/holbertonschool-higher_level_programming), etc.), as well as the *"side projects"* I've done on my own or in collaboration with other students (**Stand-Up Project** *(wip)*).
 
-At the moment, I'm in the early stages of **preparing my portfolio**, a project that will mark the end of my first year.
+At the moment, I'm in the early stages of **preparing my Portfolio**, a project that will mark the end of my first year.
 
 ## 📝 About me
 
