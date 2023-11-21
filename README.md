@@ -1,6 +1,5 @@
 # Hello ! I'm Valentine, nice to meet you !
 
-
 <a href="https://imgur.com/wSeDVQv"><img src="https://i.imgur.com/wSeDVQv.png" alt="Banner with 'welcome to my github' and a drawing of broccoli in front of a laptop computer" width="100%"></a>
 
 As a first-year student at the [**Holberton School**](https://www.holbertonschool.fr/) in **Lille, France**, I'm currently looking for an internship or work-study placement to deepen and perfect the knowledge I've acquired.
@@ -30,23 +29,23 @@ You can find details of my career path and professional experience by visiting m
 		<th>Others</th>
     </tr>
     <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="80" height="80"></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/markdown/markdown-original.svg" alt="Markdow" width="60" height="60"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/markdown/markdown-original.svg" alt="Markdow" width="80" height="80"></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL " width="60" height="60"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL " width="80" height="80"></td>
 		<td></td>
     </tr>
 	<tr>
 		<td align="center"></td>
-		<td><img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" width="60" height="60"></td>
+		<td><img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" width="80" height="80"></td>
 		<td></td>
 	</tr>
 </table>
@@ -59,19 +58,19 @@ You can find details of my career path and professional experience by visiting m
 		<th>Others</th>
     </tr>
 	<tr>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apple/apple-original.svg" alt="MacOS" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"></td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apple/apple-original.svg" alt="MacOS" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="Canva" width="80" height="80"></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"></td>
-		<td><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notions"></td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="80" height="80"></td>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" alt="Notions" width="80" height="80"></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-plain.svg" alt="Linux" width="60" height="60"></td>
+		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-plain.svg" alt="Linux" width="80" height="80"></td>
 	</tr>
 </table>
 
