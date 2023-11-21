@@ -57,9 +57,9 @@ You can find details of my career path and professional experience by visiting m
 <p align="center">
 <table>
     <tr>
-        <th><p align="center">Tools</p></th>
-        <th><p align="center">OS</th>
-		<th><p align="center">Others</th>
+        <th>Tools</th>
+        <th>OS</th>
+		<th>Others</th>
     </tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></td>
