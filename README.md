@@ -23,59 +23,61 @@ You can find details of my career path and professional experience by visiting m
 </p>
 
 ## ⚙️ Languages
-
-<table style="width: 100%; background-color: gray; border: 2px solid white;">
+<p align="center">
+<table>
     <tr>
-        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Front-End</th>
-        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Back-End</th>
-		<th style="text-align: center; font-size: 18px; border: 1px solid white;">Others</th>
+        <th>Front-End</th>
+        <th>Back-End</th>
+		<th>Others</th>
     </tr>
     <tr>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"></td>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"></td>
     </tr>
     <tr>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"></td>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/markdown/markdown-original.svg" alt="Markdow" width="60" height="60"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/markdown/markdown-original.svg" alt="Markdow" width="60" height="60"></td>
     </tr>
     <tr>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"></td>
-        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL " width="60" height="60"></td>
-		<td style="border: 1px solid white;"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL " width="60" height="60"></td>
+		<td></td>
     </tr>
 	<tr>
-		<td style="border: 1px solid white;"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" alt="Django" width="60" height="60"></td>
-		<td style="border: 1px solid white;"></td>
+		<td></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" alt="Django" width="60" height="60"></td>
+		<td></td>
 	</tr>
 </table>
+</p>
 
 ## 🛠️ What I use
-
-<table style="width: 100%; background-color: gray; border: 2px solid white;">
+<p align="center">
+<table>
     <tr>
-        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Tools</th>
-        <th style="text-align: center; font-size: 18px;border: 1px solid white;">OS</th>
-		<th style="text-align: center; font-size: 18px; border: 1px solid white;">Others</th>
+        <th><p align="center">Tools</p></th>
+        <th><p align="center">OS</th>
+		<th><p align="center">Others</th>
     </tr>
 	<tr>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apple/apple-original.svg" alt="MacOS" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apple/apple-original.svg" alt="MacOS" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"></td>
 	</tr>
 	<tr>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notions"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"></td>
+		<td><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notions"></td>
 	</tr>
 	<tr>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"></td>
-		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Shell" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"></td>
+		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Shell" width="60" height="60"></td>
 	</tr>
 </table>
+</p>
 
 
 ## 📊 Stats
