@@ -81,16 +81,9 @@ You can find details of my career path and professional experience by visiting m
 
 
 ## 📊 Stats
-<<<<<<< HEAD
-<p align="center">
-<img widht="430" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=synthwave&rank_icon=github&hide=stars"/> </br>
-</br>
-<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=synthwave"/>
-=======
 <p align="">
 <img align="" widht="100%" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=tokyonight&rank_icon=github"/> </br>
 <img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"/>
->>>>>>> ab3c8af (Add more language + change banner)
 </p>
 
 ## 🎈 For fun
