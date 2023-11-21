@@ -1,32 +1,104 @@
+# Hello ! I'm Valentine, nice to meet you !
 
-# <p align="center">🥦 Welcome ! </p>
 
-<p align="center"> My name is Valentine Pumpkins and I'm currently a student at Holberton School in Lille. </p>
+<a href="https://imgur.com/wSeDVQv"><img src="https://i.imgur.com/wSeDVQv.png" alt="Banner with 'welcome to my github' and a drawing of broccoli in front of a laptop computer" width="100%"></a>
 
-## 📝 CV
+As a first-year student at the [**Holberton School**](https://www.holbertonschool.fr/) in **Lille, France**, I'm currently looking for an internship or work-study placement to deepen and perfect the knowledge I've acquired.
 
-You can find my CV, my professional experience and a summary of my skills by cliking on the box below:
+During my first year, I studied several major languages, such as **C**, **Python** and **JavaScript**, and expanded my knowledge of **HTML/CSS**.
+
+In this [**Github**](https://github.com/ValPumpkins), you'll find all the projects I've had the chance to work on at school ([Simple Shell](https://github.com/ValPumpkins/holbertonschool-simple_shell), AirBnb Clone *(wip)*, [_printf](https://github.com/ValPumpkins/holbertonschool-printf), [Low Level](https://github.com/ValPumpkins/holbertonschool-low_level_programming) or [High Level](https://github.com/ValPumpkins/holbertonschool-higher_level_programming), etc.), as well as the *"side projects"* I've done on my own or in collaboration with other students (**Stand-Up Project***(wip)*).
+
+At the moment, I'm in the early stages of **preparing my portfolio**, a project that will mark the end of my first year.
+
+## 📝 About me
+
+In 2023, I've transitioned from a literary background to **full-stack development**. Drawing from varied professional experiences in customer service, I bring a meticulous approach to my work.
+
+This unique blend of skills reflects my adaptability and commitment to mastering the entire development process, from concept to implementation.
+
+You can find details of my career path and professional experience by visiting my [**Linkedin profile**](https://www.linkedin.com/in/valentine-quignon/). And don't hesitate to contact me directly if you feel like it !
 <p align="center">
-<a href="https://www.linkedin.com/in/valentine-quignon/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/valentine-quignon/"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="80" height="80"/> </a>
 </p>
 
+
+## ⚙️ Languages
+
+<table style="width: 100%; background-color: gray; border: 2px solid white;">
+    <tr>
+        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Front-End</th>
+        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Back-End</th>
+		<th style="text-align: center; font-size: 18px; border: 1px solid white;">Others</th>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"></td>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"></td>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/markdown/markdown-original.svg" alt="Markdow" width="60" height="60"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"></td>
+        <td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL " width="60" height="60"></td>
+		<td style="border: 1px solid white;"></td>
+    </tr>
+	<tr>
+		<td style="border: 1px solid white;"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" alt="Django" width="60" height="60"></td>
+		<td style="border: 1px solid white;"></td>
+	</tr>
+</table>
+
+## 🛠️ What I use
+
+<table>
+<table border="3" style="width: 100%; background-color: gray; border: 2px solid white;">
+    <tr>
+        <th style="text-align: center; font-size: 18px; border: 1px solid white;">Tools</th>
+        <th style="text-align: center; font-size: 18px;border: 1px solid white;">OS</th>
+		<th style="text-align: center; font-size: 18px; border: 1px solid white;">Others</th>
+    </tr>
+	<tr>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apple/apple-original.svg" alt="MacOS" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"></td>
+	</tr>
+	<tr>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notions"></td>
+	</tr>
+	<tr>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"></td>
+		<td style="text-align: center; border: 1px solid white;"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Shell" width="60" height="60"></td>
+	</tr>
+</table>
+
+
 ## 📊 Stats
+<<<<<<< HEAD
 <p align="center">
 <img widht="430" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=synthwave&rank_icon=github&hide=stars"/> </br>
 </br>
 <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=synthwave"/>
+=======
+<p align="">
+<img align="" widht="100%" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=tokyonight&rank_icon=github"/> </br>
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"/>
+>>>>>>> ab3c8af (Add more language + change banner)
 </p>
-
-## ⚙️ Techno
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-
-## 🛠️ Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🎈 For fun
 
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
+To get to know me better, here's a quick overview of what I do in my spare time :
+<ul>
+<li>📚 Reading</li>
+<li>🎲 Boardgames</li>
+<li>🧶 Craft : Knitting & Crochet</li>
+</ul>
+<a href="https://imgur.com/Tk7Gl2F"><img src="https://i.imgur.com/Tk7Gl2F.png" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left" width="100%" /></a>
