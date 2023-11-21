@@ -22,7 +22,6 @@ You can find details of my career path and professional experience by visiting m
 <a href="https://www.linkedin.com/in/valentine-quignon/"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="80" height="80"/> </a>
 </p>
 
-
 ## ⚙️ Languages
 
 <table style="width: 100%; background-color: gray; border: 2px solid white;">
@@ -55,8 +54,7 @@ You can find details of my career path and professional experience by visiting m
 
 ## 🛠️ What I use
 
-<table>
-<table border="3" style="width: 100%; background-color: gray; border: 2px solid white;">
+<table style="width: 100%; background-color: gray; border: 2px solid white;">
     <tr>
         <th style="text-align: center; font-size: 18px; border: 1px solid white;">Tools</th>
         <th style="text-align: center; font-size: 18px;border: 1px solid white;">OS</th>
@@ -82,7 +80,7 @@ You can find details of my career path and professional experience by visiting m
 
 ## 📊 Stats
 <p align="">
-<img align="" widht="100%" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=tokyonight&rank_icon=github"/> </br>
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api?username=ValPumpkins&show_icons=true&theme=tokyonight&rank_icon=github"/> </br>
 <img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPumpkins&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"/>
 </p>
 
