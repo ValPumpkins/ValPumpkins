@@ -70,7 +70,7 @@ You can find details of my career path and professional experience by visiting m
 	<tr>
 		<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="100" height="100"></td>
 		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="100" height="100"></td>
-		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-plain.svg" alt="Linux" width="100" height="100"></td>
+		<td><img src="https://www.svgrepo.com/show/508898/bash01.svg" alt="Bash" width="100" height="100"></td>
 	</tr>
 </table>
 
