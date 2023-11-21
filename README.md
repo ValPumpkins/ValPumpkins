@@ -23,8 +23,7 @@ You can find details of my career path and professional experience by visiting m
 </p>
 
 ## ⚙️ Languages
-<p align="center">
-<table>
+<table align="center">
     <tr>
         <th>Front-End</th>
         <th>Back-End</th>
@@ -51,11 +50,9 @@ You can find details of my career path and professional experience by visiting m
 		<td></td>
 	</tr>
 </table>
-</p>
 
 ## 🛠️ What I use
-<p align="center">
-<table>
+<table align="center">
     <tr>
         <th>Tools</th>
         <th>OS</th>
@@ -77,8 +74,6 @@ You can find details of my career path and professional experience by visiting m
 		<td><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="Shell" width="60" height="60"></td>
 	</tr>
 </table>
-</p>
-
 
 ## 📊 Stats
 <p align="">
