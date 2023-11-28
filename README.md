@@ -86,15 +86,15 @@ To get to know me better, here's a quick overview of what I do in my spare time 
 
 📚 -- **BOOKS** --
 
-	I read (almost) everything: American and French fiction, historical and societal essays, graphic novels, children's fiction...
+> I read (almost) everything: American and French fiction, historical and societal essays, graphic novels, children's fiction...
 
 🎲 -- **BOARDGAMES** --
 
-	Passionate about board games, I particularly enjoy those that require strategy and reflection, offering total immersion in captivating worlds.
+> Passionate about board games, I particularly enjoy those that require strategy and reflection, offering total immersion in captivating worlds.
 
 🧶 -- **KNITTING & CROCHET** --
 
-	In these two crafts, I find another perfect canvas for expressing my creativity with precision and meticulousness.
+> In these two crafts, I find another perfect canvas for expressing my creativity with precision and meticulousness.
 
 <img src="https://i.imgur.com/yW24Z1a.png" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left'" width="100%" />
 
