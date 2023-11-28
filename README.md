@@ -1,6 +1,6 @@
 # Hello ! I'm Valentine, nice to meet you !
 
-<a href="https://imgur.com/wSeDVQv"><img src="https://i.imgur.com/wSeDVQv.png" alt="Banner with 'welcome to my github' and a drawing of broccoli in front of a laptop computer" width="100%"></a>
+<img src="https://i.imgur.com/wSeDVQv.png" alt="Banner with 'welcome to my github' and a drawing of broccoli in front of a laptop computer" width="100%">
 
 As a first-year student at the [**Holberton School**](https://www.holbertonschool.fr/) in **Lille, France**, I'm currently looking for an internship or work-study placement to deepen and perfect the knowledge I've acquired.
 
@@ -88,4 +88,4 @@ To get to know me better, here's a quick overview of what I do in my spare time 
 <li>🎲 Boardgames</li>
 <li>🧶 Craft : Knitting & Crochet</li>
 </ul>
-<a href="https://imgur.com/Tk7Gl2F"><img src="https://i.imgur.com/Tk7Gl2F.png" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left" width="100%" /></a>
+<img src="https://imgur.com/yW24Z1a" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left" width="100%" />
