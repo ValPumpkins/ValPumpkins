@@ -83,9 +83,21 @@ You can find details of my career path and professional experience by visiting m
 ## 🎈 For fun
 
 To get to know me better, here's a quick overview of what I do in my spare time :
-<ul>
-<li>📚 Reading</li>
-<li>🎲 Boardgames</li>
-<li>🧶 Craft : Knitting & Crochet</li>
-</ul>
-<img src="https://imgur.com/yW24Z1a" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left" width="100%" />
+
+📚 -- **BOOKS** --
+
+	I read (almost) everything: American and French fiction, historical and societal essays, graphic novels, children's fiction...
+
+🎲 -- **BOARDGAMES** --
+
+	Passionate about board games, I particularly enjoy those that require strategy and reflection, offering total immersion in captivating worlds.
+
+🧶 -- **KNITTING & CROCHET** --
+
+	In these two crafts, I find another perfect canvas for expressing my creativity with precision and meticulousness.
+
+<img src="https://i.imgur.com/yW24Z1a.png" alt="Banner with a knitting broccoli and 'Knitters writing code since the 11th century' written on the left'" width="100%" />
+
+### © Crédit & Copyright
+🥦  Broccoli design and illustration © **[Mary Pumpkins](https://www.linkedin.com/in/xavier-banteignie-8761b1130/)**
+
